@@ -14,5 +14,6 @@ A* is an informed search algorithm, or a best-first search, meaning that it is f
 5.PURPLE = represent shortest path from start node to destination node 
 6.ORANGE = start node 
 7.TURQUOISE = represnt the end color
+![Capture](https://user-images.githubusercontent.com/56163417/122709773-94410980-d27c-11eb-93d7-014d8a964813.PNG)
 
 
